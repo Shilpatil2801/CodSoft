@@ -12,6 +12,7 @@ Each project focuses on solving real-world problems using data analysis and mach
 - **Techniques Used**: Logistic Regression, Random Forest, and other classification models.
 - **Dataset**: Highly imbalanced dataset of credit card transactions.
 - **Outcome**: Trained models to identify suspicious/fraudulent transactions with good accuracy.
+-<img width="436" height="403" alt="creditcardfraud" src="https://github.com/user-attachments/assets/45fed7f0-201a-483e-9928-e31f78006a01" />
 
 ---
 
@@ -20,6 +21,7 @@ Each project focuses on solving real-world problems using data analysis and mach
 - **Techniques Used**: Classification models such as Decision Trees, Random Forest, and Gradient Boosting.
 - **Dataset**: Telecom customer data with demographic and service usage details.
 - **Outcome**: Helps businesses take preventive action to retain customers.
+-<img width="657" height="464" alt="customerchurn" src="https://github.com/user-attachments/assets/1f5e5825-0a7f-4179-a395-d7494d63ac6b" />
 
 ---
 
